@@ -1,2 +1,4 @@
-# MIP-2018-Celulose-e-papel
-ANÁLISE INSUMO-PRODUTO: O PAPEL DO SETOR DE CELULOSE E PAPEL NA ECONOMIA BRASILEIRA
+## Analysis of the Pulp and Paper Sector in Brazil Economy
+Undergraduate project for the Input-Output course.
+
+
