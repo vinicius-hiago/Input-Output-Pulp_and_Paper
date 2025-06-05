@@ -1,4 +1,4 @@
-## Analysis the Role of the Pulp and Paper Sector in the Brazilian Economy
+## The Role of the Pulp and Paper Sector in the Brazilian Economy
 Undergraduate project for the Input-Output course.
 
 
